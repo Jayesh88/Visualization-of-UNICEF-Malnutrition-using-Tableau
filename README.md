@@ -16,6 +16,8 @@ The percentage of children who have low weight for age (underweight) can reflect
 
 
 ## Dashboard Screenshot
-Dashboard is built in such a way that whenever you select the filter from the type of malutrition it gives the inforamtion based on the type of malnutrition selected, which country in the world has been affected the most, which continent has its effect.
+Dashboard is built in such a way that whenever you select the filter from the type of malutrition it gives the information based on the type of malnutrition selected, which country in the world has been affected the most, which continent has its effect.
+It also gives us information about which type of income group is having the highest impact.
+
 
 ![Malnutrition Dashboard](https://user-images.githubusercontent.com/61301712/87360540-58fc6d80-c538-11ea-93e1-8c1125498fbf.png)
